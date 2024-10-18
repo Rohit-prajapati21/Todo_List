@@ -1,0 +1,24 @@
+.entry_Box{
+  padding: 20px 200px;
+}
+
+.entry_Box form{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  
+}
+.entry_Box input{
+  width: 80%;
+  outline-style: none;
+  padding: 0 5px;
+
+}
+
+.entry_Box button{
+  margin-left: 20px;
+  padding: 10px;
+  background-color: blue;
+  border: none;
+  color: white;
+}
